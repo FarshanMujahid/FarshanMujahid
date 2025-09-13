@@ -133,9 +133,7 @@
   <a href="https://code.visualstudio.com/">
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" class="tech-badge"/>
   </a>
-  <a href="https://docs.spring.io/spring-framework/reference/web/webmvc.html">
-  <img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring MVC" class="tech-badge"/>
-</a>
+ 
 </div>
 
 </div>
